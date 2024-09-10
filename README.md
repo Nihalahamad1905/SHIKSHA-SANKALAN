@@ -4,8 +4,12 @@ Our web-based portal combines data from manual entries and CSV files into one ce
 
 Reports are displayed on a dashboard for administration, which includes graphs, charts, and other visual aids for in-depth examination. Reports can be downloaded and modified by faculty and administration, but students can only view them. For deep analysis, administrators have access to both department-specific and overall reports. This solution simplifies the report generation process and offers strong data management and visualization features, all while improving productivity, accuracy, and security.
 
-##Data Flow Diagram
-![image](https://github.com/user-attachments/assets/30a6f70b-3906-440d-bf49-fcdfdcf1f78e)
+## SIH Hackathon Team Details - 
+* Problem Statement ID – SIH1641
+* Problem Statement Title- Create an Annual Report Portal for institute where all the departmental reports can be integrated and customized
+* Theme- Smart Education
+* PS Category- Software 
+* Team ID- 1592
+* Team Name-  X-PARA
 
-##Tech Stack
-![image](https://github.com/user-attachments/assets/2a3edd6d-a41a-488c-81ab-0445a75adf24)
+

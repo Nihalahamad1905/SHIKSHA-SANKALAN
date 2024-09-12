@@ -6,6 +6,7 @@
     <title>Anual Report System - To be Updated</title>
     
     <link rel="stylesheet" href="css/main_style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="img/icon.png">
     <style>
         
@@ -36,29 +37,48 @@
         }
     </style>
 </head>
-<body>
+<body style="background-color:#bdbbb8">
 
-    <section class="header" >
-        <br>
-        <nav id="navbar">
-            <a href="index.html"><img src="image/icon.png" id="logo-img" ></a>
-
-            <div class="nav-links" id="navLinks">
-
-                <span class="icon" onclick="hidemenu()">&#10005;</span>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="index.html">Department</a></li>
-                    <li><a href="index.html">Demo</a></li>
-                    <li><a href="index.html">Demo</a></li>
-                    <li><a href="index.html">Contact</a></li>
-                </ul>
-            </div> 
-            <span class="icon" onclick="showmenu()">&#9776;</span>
-        </nav>
-       
+     
+    <div class="header-container">
+        <div class="left-section">
+            <a href="#">
+                <img src="img/logo.jpg" alt="Ministry of Education Logo" class="logo ministry-logo">
+            </a>
+            
+        </div>
+        <div class="right-section">
+            <a href="#" class="login-button">
+                Smart India Hackathon Login/Register
+                <img src="image/profile.jpg" alt="Login Icon" class="login-icon">
+            </a>
+        </div>
+    </div>
     
-    </section>
+    <nav class="navbar">
+        <ul class="navbar-menu">
+            <li><a href="#">Home</a></li>
+            <li class="dropdown">
+                <a href="update.html">Departent</a>
+                <!-- <ul class="dropdown-menu">
+                    <li><a href="#">Overview</a></li>
+                    <li><a href="#">Organizers</a></li>
+                </ul> -->
+            </li>
+            <li class="dropdown">
+                <a href="update.html">Template</a>
+                <!-- <ul class="dropdown-menu">
+                    <li><a href="#">General</a></li>
+                    <li><a href="#">Technical</a></li>
+                </ul> -->
+            </li>
+            <li><a href="update.html">Demo</a></li>
+            <li><a href="update.html">Demo</a></li>
+            
+            <li><a href="update.html">FAQs</a></li>
+            <li><a href="update.html">Contact Us</a></li>
+        </ul>
+    </nav>
     <div class="container">
         <div class="card" style="width: 100%;">
             <div class="card-body">

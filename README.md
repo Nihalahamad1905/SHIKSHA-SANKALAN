@@ -12,4 +12,8 @@ Reports are displayed on a dashboard for administration, which includes graphs, 
 * Team ID- 1592
 * Team Name-  X-PARA
 
+## Demo -
+<img src="https://github.com/user-attachments/assets/fa286f61-7d56-4771-a027-be920d005a5c">
+<img src="https://github.com/user-attachments/assets/88634df9-e3cd-4254-b6d1-75e2b6e15ba3">
+<img src="https://github.com/user-attachments/assets/c043f8ea-4b54-4238-a40d-c24feca75e46">
 

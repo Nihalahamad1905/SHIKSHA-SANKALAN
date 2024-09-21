@@ -13,6 +13,7 @@ Reports are displayed on a dashboard for administration, which includes graphs, 
 * Team Name-  X-PARA
 
 ## Demo -
+<img src="https://github.com/user-attachments/assets/4f30fb33-ab80-4095-926e-6d651e921e89">
 <img src="https://github.com/user-attachments/assets/c925e51c-a7a9-4626-b7ca-ed82231de3de">
 
 <img src="https://github.com/user-attachments/assets/fa286f61-7d56-4771-a027-be920d005a5c">

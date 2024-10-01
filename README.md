@@ -1,7 +1,7 @@
 # SHIKSHA-SANKALAN
 
-<img src="https://github.com/user-attachments/assets/6902cc7c-d986-4fad-b835-05b8ac4fed98">
-<img src="https://github.com/user-attachments/assets/158fbcee-1f21-4120-87a8-8905dde81bbf">
+<img src="https://github.com/user-attachments/assets/6902cc7c-d986-4fad-b835-05b8ac4fed98" style="height:30%; width:30%">
+<img src="https://github.com/user-attachments/assets/158fbcee-1f21-4120-87a8-8905dde81bbf" >
 
 Our web-based portal combines data from manual entries and CSV files into one central database, making the process of preparing annual reports for educational institutions faster. After analyzing this data, it produces thorough annual reports that can be downloaded in DOCX, HTML, CSV, and PDF forms. The portal encrypts final reports to protect sensitive data and provides secure access via OTP confirmation. For further security, the report is sent by email to the faculty members who logged in shortly as it is generated. The UI is made to be easy to use and intuitive.
 

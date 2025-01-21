@@ -5,6 +5,8 @@ Our web-based portal combines data from manual entries and CSV files into one ce
 Reports are displayed on a dashboard for administration, which includes graphs, charts, and other visual aids for in-depth examination. Reports can be downloaded and modified by faculty and administration, but students can only view them. For deep analysis, administrators have access to both department-specific and overall reports. This solution simplifies the report generation process and offers strong data management and visualization features, all while improving productivity, accuracy, and security.
 
 ## Demo -
+![3](https://github.com/user-attachments/assets/c135bd04-fd29-4c2d-b1f7-76bc1fd8ffbb)
+
 <img src="https://github.com/user-attachments/assets/4f30fb33-ab80-4095-926e-6d651e921e89">
 <img src="https://github.com/user-attachments/assets/c925e51c-a7a9-4626-b7ca-ed82231de3de">
 
